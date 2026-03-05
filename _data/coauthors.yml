@@ -1,34 +1,38 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"kostelka":
+  - firstname: ["Filip", "F."]
+    url: https://fkostelka.eu/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"van ham":
+  - firstname: ["Carolien", "C."]
+    url: https://www.ru.nl/en/people/ham-c-van
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"van elsas":
+  - firstname: ["Erika", "E."]
+    url: https://www.uva.nl/en/profile/e/l/e.j.vanelsas/e.j.van-elsas.html
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"sipma":
+  - firstname: ["Twan", "T."]
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"mansour":
+  - firstname: ["Nadim", "N."]
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"den ridder":
+  - firstname: ["Josje", "J."]
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"alberdi":
+  - firstname: ["Miriam", "M."]
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"bradley":
+  - firstname: ["Matthew", "M."]
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"jabbour":
+  - firstname: ["Aline", "A."]
+
+"minaeva":
+  - firstname: ["Ekaterina", "E."]
+
+"porciuleanu":
+  - firstname: ["Silviu", "S."]
+
+"rafailova":
+  - firstname: ["Diana", "D."]
