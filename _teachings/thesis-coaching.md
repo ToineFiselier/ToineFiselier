@@ -16,4 +16,4 @@ My coaching specialises in:
 - **Research design** — Helping students develop a coherent and methodologically sound research setup, including operationalisation, sampling, and data collection strategies.
 - **Academic writing** — Structuring arguments, writing clearly, and meeting academic standards.
 
-I work with students in **Political Science, Psychology, Economics, and Business Administration**.
+I work with students in **Political Science, Psychology, Communication Science, Economics, and Business Administration**.

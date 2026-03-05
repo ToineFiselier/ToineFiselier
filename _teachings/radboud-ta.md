@@ -1,14 +1,14 @@
 ---
 layout: course
-title: Teaching & Research Assistant
-description: Courses taught at the Department of Political Science, Radboud University.
+title: Teaching Assistant
+description: Research methods and political science courses at the Department of Political Science, Radboud University.
 instructor: Toine Fiselier
 institution: Radboud University, Nijmegen, The Netherlands
 year: 2020
 term: "2020–2022"
 ---
 
-During my time as a Teaching and Research Assistant at Radboud University (September 2020 – July 2022), I taught the following courses at the Department of Political Science:
+During my time as a Teaching Assistant at Radboud University (September 2020 – July 2022), I taught the following courses at the Department of Political Science:
 
 - **Political Science Research Methods** — Introductory methods course covering research design, data collection, and quantitative and qualitative analysis.
 - **Project 1: Explanations for Political Attitudes and Behavior in the Netherlands** — Research project course in which students design and execute an original research project on Dutch political attitudes and behavior.
