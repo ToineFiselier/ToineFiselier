@@ -180,15 +180,24 @@ cv:
     Interests:
       - name: Democratic Legitimacy & Political Support
         icon: fa-solid fa-landmark
-        keywords: "Political trust, satisfaction with democracy, institutional support"
+        keywords:
+          - Political trust
+          - Satisfaction with democracy
+          - Institutional support
 
       - name: Polarization
         icon: fa-solid fa-arrows-left-right
-        keywords: "Affective polarization, ideological polarization, partisan identity"
+        keywords:
+          - Affective polarization
+          - Ideological polarization
+          - Partisan identity
 
       - name: Political Behavior
         icon: fa-solid fa-person-booth
-        keywords: "Voting behavior, public opinion, electoral integrity"
+        keywords:
+          - Voting behavior
+          - Public opinion
+          - Electoral integrity
 
     References:
       - name: Prof. Filip Kostelka

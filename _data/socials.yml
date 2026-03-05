@@ -4,6 +4,5 @@
 cv_pdf: /assets/pdf/cv.pdf # path to your CV PDF file
 email: Toine.Fiselier@EUI.eu # your email address
 scholar_userid: r7PEhEYAAAAJ # your Google Scholar ID
-linkedin: toine-fiselier-a53a3516 # your LinkedIn username
-bluesky: t-fiselier.bsky.social # your Bluesky handle
-rss_icon: false # comment this line to hide the RSS icon
+linkedin_username: toine-fiselier-a53a3516 # your LinkedIn username
+bluesky_url: https://bsky.app/profile/t-fiselier.bsky.social # your Bluesky profile URL
