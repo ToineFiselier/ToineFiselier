@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Teaching Assistant
-description: Research methods and political science courses at the Department of Political Science, Radboud University.
+description: Research methods for political science students at the Department of Political Science, Radboud University.
 instructor: Toine Fiselier
 institution: Radboud University, Nijmegen, The Netherlands
 year: 2020

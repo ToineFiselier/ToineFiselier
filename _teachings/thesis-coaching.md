@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Thesis Coaching (Jouw Scriptiecoach)
-description: Individual thesis coaching for students in Political Science, Psychology, Economics, and Business Administration.
+description: Individual thesis coaching for students in Political Science, Psychology, Communication Science, Economics, and Business Administration.
 instructor: Toine Fiselier
 institution: Jouw Scriptiecoach, The Netherlands
 year: 2024
