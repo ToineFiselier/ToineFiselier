@@ -1,12 +1,11 @@
 "kostelka":
   - firstname: ["Filip", "F."]
-    url: https://fkostelka.eu/
+    url: https://filipkostelka.com
 
-"ham":
+"van ham":
   - firstname: ["Carolien", "C."]
-    url: https://www.ru.nl/en/people/ham-c-van
 
-"elsas":
+"van elsas":
   - firstname: ["Erika", "E."]
     url: https://www.uva.nl/en/profile/e/l/e.j.vanelsas/e.j.van-elsas.html
 
@@ -16,7 +15,7 @@
 "mansour":
   - firstname: ["Nahla", "N."]
 
-"ridder":
+"den ridder":
   - firstname: ["Josje", "J."]
 
 "alberdi":
@@ -30,6 +29,7 @@
 
 "minaeva":
   - firstname: ["Eleonora", "E."]
+    url: https://eleonora-minaeva.github.io
 
 "porciuleanu":
   - firstname: ["Silvia", "S."]
