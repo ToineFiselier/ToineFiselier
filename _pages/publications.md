@@ -15,11 +15,15 @@ nav_order: 2
 
 <div class="publications">
 
+<h2 class="year">Publications</h2>
+
+{% bibliography --query @article %}
+
 <h2 class="year">Working Papers</h2>
 
 {% bibliography --query @unpublished %}
 
-{% bibliography --query @article %}
+<h2 class="year">Policy Reports</h2>
 
 {% bibliography --query @techreport %}
 
