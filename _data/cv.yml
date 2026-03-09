@@ -1,6 +1,4 @@
 cv:
-  name: Toine Fiselier
-  label: PhD Researcher in Political Science
   image: ""
   summary: PhD Researcher at the European University Institute specialising in the intersection of polarization and political support. His work investigates how different types of polarization affect democratic legitimacy and under which conditions polarization is harmful or beneficial for democracies.
 
@@ -67,11 +65,6 @@ cv:
           - "Policy reports for the Dutch Electoral Council and the Netherlands Institute for Social Research."
 
     Projects:
-      - name: R-Evolve (HORIZON Funded Project)
-        summary: Advised on survey design and data quality assessment for circular economy transition research; developed a Shiny app to support co-design workshops for consumer involvement and persona identification.
-        start_date: 2025-07-01
-        end_date: present
-
       - name: EUandI
         summary: Data-cleaning and analyses using survey data collected from the EUandI voting application.
         start_date: 2024-10-01
