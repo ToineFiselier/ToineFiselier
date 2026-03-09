@@ -1,21 +1,8 @@
 cv:
   name: Toine Fiselier
   label: PhD Researcher in Political Science
-  email: Toine.Fiselier@EUI.eu
-  location: Fiesole, Italy
   image: ""
   summary: PhD Researcher at the European University Institute specialising in the intersection of polarization and political support. His work investigates how different types of polarization affect democratic legitimacy and under which conditions polarization is harmful or beneficial for democracies.
-
-  social_networks:
-    - network: LinkedIn
-      username: toine-fiselier-a53a3516
-    - network: Google Scholar
-      username: r7PEhEYAAAAJ
-
-  address:
-    city: Fiesole
-    region: Tuscany
-    countryCode: IT
 
   sections:
     Education:
@@ -199,15 +186,3 @@ cv:
           - Public opinion
           - Electoral integrity
 
-    References:
-      - name: Prof. Filip Kostelka
-        icon: fa-solid fa-user-tie
-        reference: "Professor in Political and Social Change and Director of Graduate Studies, European University Institute. E-mail: Filip.Kostelka@EUI.EU"
-
-      - name: Associate Prof. Andrej Zaslove
-        icon: fa-solid fa-user-tie
-        reference: "Associate Professor of Comparative Politics, Radboud University, Nijmegen. E-mail: Andrej.Zaslove@ru.nl"
-
-      - name: Prof. Carolien van Ham
-        icon: fa-solid fa-user-tie
-        reference: "Professor in Empirical Political Science, Radboud University, Nijmegen. E-mail: Carolien.vanHam@ru.nl"
