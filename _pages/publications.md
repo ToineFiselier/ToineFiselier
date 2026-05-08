@@ -27,4 +27,8 @@ nav_order: 2
 
 {% bibliography --query @techreport %}
 
+<h2 class="year">Datasets</h2>
+
+{% bibliography --query @misc %}
+
 </div>
