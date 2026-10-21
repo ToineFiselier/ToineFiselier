@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Page not found – Toine Fiselier</title>
+  <!-- This page can show up at any address, so links here start with /ToineFiselier/ -->
+  <link rel="stylesheet" href="/ToineFiselier/style.css">
+  <script>
+    // Send links to the old version of the site to the new pages.
+    var moved = {
+      "/toinefiselier/publications/": "/ToineFiselier/publications.html",
+      "/toinefiselier/teaching/": "/ToineFiselier/teaching.html",
+      "/toinefiselier/cv/": "/ToineFiselier/cv.pdf",
+      "/toinefiselier/assets/pdf/cv.pdf": "/ToineFiselier/cv.pdf"
+    };
+    var path = location.pathname.toLowerCase();
+    var target = moved[path] || moved[path + "/"];
+    if (target) location.replace(target);
+  </script>
+</head>
+<body>
+
+<header>
+  <a class="name" href="/ToineFiselier/">Toine Fiselier</a>
+  <nav>
+    <a href="/ToineFiselier/">About</a>
+    <a href="/ToineFiselier/publications.html">Publications</a>
+    <a href="/ToineFiselier/teaching.html">Teaching</a>
+    <a href="/ToineFiselier/cv.pdf">CV</a>
+  </nav>
+</header>
+
+<main>
+  <h1>Page not found</h1>
+  <p>This page does not exist. Try the <a href="/ToineFiselier/">home page</a>.</p>
+</main>
+
+</body>
+</html>

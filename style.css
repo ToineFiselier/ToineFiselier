@@ -1,0 +1,93 @@
+/* One stylesheet for every page. */
+
+body {
+  max-width: 46rem;
+  margin: 0 auto;
+  padding: 2rem 1rem 4rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+  color: #222;
+  background: #fff;
+}
+
+a {
+  color: #1a5394;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Name and menu at the top of each page */
+header {
+  margin-bottom: 2rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid #ddd;
+}
+
+header .name {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #222;
+  text-decoration: none;
+}
+
+nav a {
+  margin-right: 1.1rem;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+nav a.current {
+  color: #222;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 1.4rem;
+  margin: 0 0 1rem;
+}
+
+h2 {
+  font-size: 1.15rem;
+  margin: 2.25rem 0 0.5rem;
+}
+
+/* Grey text for dates and places */
+.small {
+  color: #666;
+  font-size: 0.95rem;
+  margin-top: 0;
+}
+
+/* Profile photo on the home page */
+.photo {
+  float: right;
+  width: 190px;
+  margin: 0.3rem 0 1rem 1.5rem;
+}
+
+/* Publication lists */
+ul.pubs {
+  list-style: none;
+  padding: 0;
+}
+
+ul.pubs li {
+  margin-bottom: 1rem;
+}
+
+/* On phones, put the photo above the text */
+@media (max-width: 560px) {
+  .photo {
+    float: none;
+    display: block;
+    width: 160px;
+    margin: 0 0 1.25rem;
+  }
+}
