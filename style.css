@@ -68,7 +68,7 @@ h2 {
 /* Profile photo on the home page */
 .photo {
   float: right;
-  width: 190px;
+  width: 230px;
   margin: 0.3rem 0 1rem 1.5rem;
 }
 
@@ -87,7 +87,7 @@ ul.pubs li {
   .photo {
     float: none;
     display: block;
-    width: 160px;
+    width: 220px;
     margin: 0 0 1.25rem;
   }
 }
