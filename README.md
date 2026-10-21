@@ -14,6 +14,7 @@ Plain HTML. No build step, nothing to install.
 | `cv.pdf` | The CV linked in the menu. Replace this file to update your CV. |
 | `photo.jpg` | Profile photo on the home page |
 | `style.css` | Fonts, colours and layout for all pages |
+| `fonts/` | CMU Serif (Computer Modern, the LaTeX font used in the CV) and its free licence |
 | `404.html` | "Page not found". Also sends old links (like `/publications/`) to the new pages. |
 
 ## How to edit
